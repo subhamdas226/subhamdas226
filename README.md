@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **exciting projects**
 
-- 📝 Sometimes,I write articles on [https://unraveltech.blogspot.com/](https://unraveltech.blogspot.com/)
-
 - 💬 Ask me about **java, node.js, angular**
 
 - 📫 How to reach me **subhamdas226@gmail.com**
