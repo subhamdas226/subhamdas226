@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **subhamdas226@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y-CxQaDxeUI5V3abfmWRn81FjnW0m_FT/view?usp=sharing](https://drive.google.com/file/d/1y-CxQaDxeUI5V3abfmWRn81FjnW0m_FT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
