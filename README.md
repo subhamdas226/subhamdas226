@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamdas226&label=Profile%20views&color=0e75b6&style=flat" alt="subhamdas226" /> </p>
 
 
-- 🔭 I’m currently working on **E-Commerce project**
+- 🔭 I’m currently working on **Oodles Twwchnologies**
 
 - 🌱 I’m currently learning **MEAN Stack**
 
